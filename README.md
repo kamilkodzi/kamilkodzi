@@ -121,7 +121,7 @@
 ###
 
 <div align="left">
-  <img height="200" src="https://content.packt.com/B18425/cover_image_small.jpg"  />
+  <img height="200" src="https://content.packt.com/B15729/cover_image_small.jpg"  />
 </div>
 
 ###
