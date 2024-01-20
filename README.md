@@ -94,7 +94,11 @@
 
 ###
 
-<p align="left">1. Production grade e-commerce, microservices app: https://github.com/kamilkodzi/ticketing-microservices/<br>2. TBD soon</p>
+<p align="left">
+  1. Production grade e-commerce, microservices app: https://github.com/kamilkodzi/ticketing-microservices/<br>
+  2. Handy tool for transforming BigData XML files via Streams https://github.com/kamilkodzi/xml-transformer</br>
+  3. + 20 more to be anounced soon, need to clean readme for each of them :) </br>
+</p>
 
 ###
 
