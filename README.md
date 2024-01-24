@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🚀 Currently working on my portfolio to find dreamed place to settled down.<br>So if you know something about it... Call me maybe🤙🏼😅<br><br>If you are interested how i spend my professional time, check my "Playlist" below,<br>Deployed version of portfolio will be soon here, for now please check projects summary also below</p>
+<p align="left">🚀 Currently working on my portfolio to find dreamed place to settled down.<br>So if you know something about it... Call me maybe🤙🏼😅<br><br>If you are interested how I spend my professional time, check my "Playlist" below,<br>Deployed version of portfolio will be soon here, for now please check projects summary also below</p>
 
 ###
 
