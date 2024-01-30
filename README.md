@@ -100,6 +100,11 @@
   3. + 20 more to be anounced soon, need to clean readme for each of them :) </br>
 </p>
 
+some small helpers from JS world:
+<p align="left">
+  1. Iterators, generators and data structures: https://github.com/kamilkodzi/generators/<br>
+</p>
+
 ###
 
 <h2 align="left">🔬My Playlist, right now:</h2>
