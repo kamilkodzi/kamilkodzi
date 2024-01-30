@@ -100,9 +100,9 @@
   3. + 20 more to be anounced soon, need to clean readme for each of them :) </br>
 </p>
 
-some small helpers from JS world:
+#### some small helpers from JS world:
 <p align="left">
-  1. Iterators, generators and data structures: https://github.com/kamilkodzi/generators/<br>
+  - Iterators, generators and data structures: https://github.com/kamilkodzi/generators/<br>
 </p>
 
 ###
