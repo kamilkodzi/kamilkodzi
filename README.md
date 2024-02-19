@@ -111,10 +111,6 @@
 
 ###
 
-<p align="left">💪🏼Training microservices pattern and build, deploy, and scale an E-Commerce app using Microservices built with Node, React, Docker and Kubernetes<br>You can find it on my github:<br> https://github.com/kamilkodzi/ticketing-microservices</p>
-
-###
-
 <p align="left">👨🏾‍🎓 Studying docker to deliver better projects, with:</p>
 
 ###
