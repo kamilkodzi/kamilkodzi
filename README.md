@@ -9,7 +9,7 @@
 Right now I’m intentionally growing toward the **AI Engineer** path.
 
 What excites me most is combining strong product engineering with practical AI workflows:
-- building useful AI-powered products, not just demos
+- building useful AI-powered products,
 - connecting `LLMs`, backend systems, and frontend UX into real solutions
 - understanding deeply how things work, where they fail, and how to make them reliable
 
